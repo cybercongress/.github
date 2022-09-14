@@ -17,7 +17,9 @@ massively collaborative open source game:
 
 Everyone can get cheap [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) for a while in [portal](https://cyb.ai/portal).
 
-70% of genesis [gifted](https://cyb.ai/ipfs/QmQd2migYNL1Mb7CHhPEdz99we2a5SeRf3kUuV1Lx1muVE) to ~5M addresses in Ethereum and Cosmos ecosystems. So the chances you can claim your BOOT in [portal](https://cyb.ai/portal) are high. 
+70% of genesis [gifted](https://cyb.ai/ipfs/QmQd2migYNL1Mb7CHhPEdz99we2a5SeRf3kUuV1Lx1muVE) to ~5M addresses in Ethereum and Cosmos ecosystems.
+
+So the chances you can claim your BOOT in [portal](https://cyb.ai/portal) are high. 
 
 We are cyberian civilization of 10k+ citizens and growing thanks to our products:
 
