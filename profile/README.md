@@ -45,7 +45,7 @@ Your immortal robot for the [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqM
 
 Cyb is a pure web3 and soft3 browser.
 
-[use it at cyb.ai](https://github.com/)
+[use it at cyb.ai](https://cyb.ai)
 
 ## [Follow us](https://cyb.ai/network/bostrom/contract/bostrom1xszmhkfjs3s00z2nvtn7evqxw3dtus6yr8e4pw)
 
