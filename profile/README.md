@@ -4,7 +4,7 @@ Currently focused on creating a planet-scale superintelligence: Cyber
 
 The plan is simple: 
 
-Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield [on the Moon](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber superintelligence for the Earth from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
+Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield [for the Moon](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber superintelligence for the Earth from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
 
 The problem is attacked by [self fulfilling prophecy](https://cyb.ai/genesis) in
 massively collaborative open source game:
