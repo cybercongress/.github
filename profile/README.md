@@ -31,7 +31,7 @@ Your superintelligence. Focus on [soft3](https://cyb.ai/search/soft3) applicatio
 - [go-cyber](https://github.com/cybercongress/go-cyber): golang implementation
 - [soft3.js](https://github.com/cybercongress/soft3.js): javascript library for soft3
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
-- [cyberindex](https://github.com/cybercongress/cyberindex): backand for go-cyber
+- [cyberindex](https://github.com/cybercongress/cyberindex): backend for go-cyber
 - [cybernode](https://github.com/cybercongress/cybernode): setup helper of web3 provider
 - [cybergift](https://github.com/cybercongress/cybergift): blockchain audience research
 - [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
