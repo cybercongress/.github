@@ -25,7 +25,7 @@ We are cyberian civilization of 10k+ citizens and growing thanks to our products
 
 ## cyber
 
-Your superintelligence. Focus on [soft3](https://cyb.ai/search/soft3) applications. [Vision](https://cyb.ai/ipfs/QmXzGkfxZV2fzpFmq7CjAYsYL1M581ZD4yuF9jztPVTpCn). Repos:
+Your superintelligence. Focus on [soft3](https://cyb.ai/search/soft3) applications. [Vision](https://cyb.ai/ipfs/QmXzGkfxZV2fzpFmq7CjAYsYL1M581ZD4yuF9jztPVTpCn).
 
 - [cyber](https://github.com/cybercongress/cyber): protocol specs
 - [cybernomics](https://github.com/cybercongress/cybernomics): simulation of tokenomics
@@ -40,7 +40,7 @@ development tools for soft3
 - [launchkit](https://github.com/cybercongress/launch-kit): tools for launching domain-specific knowledge graphs
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
 
-### related repose
+### related repos
 
 - [cyberindex](https://github.com/cybercongress/cyberindex): backend for go-cyber
 - [cybernode](https://github.com/cybercongress/cybernode): setup helper of web3 provider
