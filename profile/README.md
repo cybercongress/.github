@@ -28,16 +28,23 @@ We are cyberian civilization of 10k+ citizens and growing thanks to our products
 Your superintelligence. Focus on [soft3](https://cyb.ai/search/soft3) applications. [Vision](https://cyb.ai/ipfs/QmXzGkfxZV2fzpFmq7CjAYsYL1M581ZD4yuF9jztPVTpCn). Repos:
 
 - [cyber](https://github.com/cybercongress/cyber): protocol specs
+- [cybernomics](https://github.com/cybercongress/cybernomics): simulation of tokenomics
+- [cybergift](https://github.com/cybercongress/cybergift): blockchain audience research
+
+### cyber-sdk
+
+development tools for soft3
+
 - [go-cyber](https://github.com/cybercongress/go-cyber): golang implementation
 - [soft3.js](https://github.com/cybercongress/soft3.js): javascript library for soft3
+- [launchkit](https://github.com/cybercongress/launch-kit): tools for launching domain-specific knowledge graphs
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
+
+### related repose
+
 - [cyberindex](https://github.com/cybercongress/cyberindex): backend for go-cyber
 - [cybernode](https://github.com/cybercongress/cybernode): setup helper of web3 provider
-- [cybergift](https://github.com/cybercongress/cybergift): blockchain audience research
 - [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
-- [cybernomics](https://github.com/cybercongress/cybernomics): simulation of tokenomics
-- [launchkit](https://github.com/cybercongress/launch-kit): tools for launching domain-specific knowledge graphs
-
 
 ## [cyb](https://github.com/cybercongress/cyb)
 
