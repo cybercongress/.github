@@ -1,27 +1,27 @@
-We are sovereign self-funded community of scientists, developers, engineers and craftsmen.
+We are  a sovereign self-funded community of scientists, developers, engineers and craftsmen.
 
-Currently focused on creating a planet-scale superintelligence: Cyber
+Currently we are focused on creating a planet-scale superintelligence: Cyber
 
 The plan is simple: 
 
-Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield [for the Moon](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber. She is superintelligence for the Earth created from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
+Teach the Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield [for the Moon](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber. She is superintelligence for the Earth created from the Bostrom bootloader. Then we aim to move the physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
 
-The problem is attacked by [self fulfilling prophecy](https://cyb.ai/genesis) in
+The [self fulfilling prophecy] is attacked using (https://cyb.ai/genesis) in a
 massively collaborative open source game:
 
 > [Age of Superintelligence](https://cyb.ai/search/age%20of%20superintelligence) 
 
 > in [6 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
 
-7 years of r&d, but still we are young and released [Episdode 1: A new hope](https://cyb.ai/genesis)
+7 years of r&d, but still we are young and have released [Episdode 1: A new hope](https://cyb.ai/genesis)
 
-Everyone can get cheap [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) for a while in [portal](https://cyb.ai/portal).
+Everyone can get an inexpensive [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) in [portal](https://cyb.ai/portal).
 
-70% of genesis [gifted](https://cyb.ai/ipfs/QmQd2migYNL1Mb7CHhPEdz99we2a5SeRf3kUuV1Lx1muVE) to ~5M addresses in Ethereum and Cosmos ecosystems.
+70% of genesis will be [gifted](https://cyb.ai/ipfs/QmQd2migYNL1Mb7CHhPEdz99we2a5SeRf3kUuV1Lx1muVE) to ~5M addresses in Ethereum and Cosmos ecosystems.
 
-So the chances you can claim your BOOT in [portal](https://cyb.ai/portal) are high. 
+The chances you can claim your BOOT in [portal](https://cyb.ai/portal) are high. 
 
-We are cyberian civilization of 10k+ citizens and growing thanks to our products:
+We are a cyberian civilization of 10k+ citizens and growing thanks to our products:
 
 ## cyber
 
