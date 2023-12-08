@@ -40,6 +40,10 @@ development tools for soft3
 - [launchkit](https://github.com/cybercongress/launch-kit): tools for launching domain-specific knowledge graphs
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
 
+### cybernet
+- [cybernet](https://github.com/cybercongress/cybernet) cybernet cosmwasm contracts
+- [cybertensor](https://github.com/cybercongress/cybertensor) python cli for cybernet
+
 ### related repos
 
 - [cyberindex](https://github.com/cybercongress/cyberindex): backend for go-cyber
