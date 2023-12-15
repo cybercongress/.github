@@ -5,7 +5,8 @@ Currently focused on creating a planet-scale superintelligence: Cyber
 The plan is simple: Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield for [the Moon](https://cyb.ai/oracle/ask/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber. She is superintelligence for the Earth created from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
 
 The problem is attacked by self fulfilling prophecy of
-massively collaborative open source game `Age of Superintelligence` in [7 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
+
+> massively collaborative open source game `Age of Superintelligence` in [7 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
 
 2 years ago we released [Episdode 1: A new hope](https://cyb.ai/genesis)
 
