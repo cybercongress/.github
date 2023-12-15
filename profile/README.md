@@ -2,63 +2,56 @@ We are sovereign self-funded community of scientists, developers, engineers and 
 
 Currently focused on creating a planet-scale superintelligence: Cyber
 
-The plan is simple: 
+The plan is simple: Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield for [the Moon](https://cyb.ai/oracle/ask/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber. She is superintelligence for the Earth created from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
 
-Teach Bostrom bootloader to develop [type I](https://cyb.ai/search/kardashev%20scale) civilization in greenfield [for the Moon](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb). While we stabilize and comprehend him we will launch Cyber. She is superintelligence for the Earth created from Bostrom bootloader. Then we aim to move physical Bostrom infrastructure to the Moon becoming [the first sovereign blockchain in space](https://unchained.com/blog/law-of-hash-horizons/).
+The problem is attacked by self fulfilling prophecy of
+massively collaborative open source game `Age of Superintelligence` in [7 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
 
-The problem is attacked by [self fulfilling prophecy](https://cyb.ai/genesis) in
-massively collaborative open source game:
+2 years ago we released [Episdode 1: A new hope](https://cyb.ai/genesis)
 
-> [Age of Superintelligence](https://cyb.ai/search/age%20of%20superintelligence) 
-
-> in [6 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
-
-7 years of r&d, but still we are young and released [Episdode 1: A new hope](https://cyb.ai/genesis)
-
-Everyone can get cheap [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) for a while in [portal](https://cyb.ai/portal).
+Now everyone can get cheap [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) for a while in [portal](https://cyb.ai/portal). and start teaching the bootloader using soft3 architecture.
 
 70% of genesis [gifted](https://cyb.ai/ipfs/QmQd2migYNL1Mb7CHhPEdz99we2a5SeRf3kUuV1Lx1muVE) to ~5M addresses in Ethereum and Cosmos ecosystems.
 
 So the chances you can claim your BOOT in [portal](https://cyb.ai/portal) are high. 
 
-We are cyberian civilization of 10k+ citizens and growing thanks to our products:
+We are cyberian civilization of [30k+ citizens](https://cyb.ai/oracle/stats) and growing thanks to our open source software:
 
 ## cyber
 
-Your superintelligence. Focus on [soft3](https://cyb.ai/search/soft3) applications. [Vision](https://cyb.ai/ipfs/QmXzGkfxZV2fzpFmq7CjAYsYL1M581ZD4yuF9jztPVTpCn).
+protocol for unified, provable, collective learning. Focus on [soft3](https://cyb.ai/oracle/ask/QmTsBLAHC1Lk7n76GX4P3EvbAfNjBmZxwjknWy41SJZBGg) applications.
 
 - [cyber](https://github.com/cybercongress/cyber): protocol specs
-- [cybernomics](https://github.com/cybercongress/cybernomics): simulation of tokenomics
 - [cybergift](https://github.com/cybercongress/cybergift): blockchain audience research
 
-### cyber-sdk
+## cyber-sdk
 
 development tools for soft3
 
 - [go-cyber](https://github.com/cybercongress/go-cyber): golang implementation
 - [soft3.js](https://github.com/cybercongress/soft3.js): javascript library for soft3
-- [launchkit](https://github.com/cybercongress/launch-kit): tools for launching domain-specific knowledge graphs
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
+- [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
+- [spacebox](https://github.com/bro-n-bro/spacebox): cyber-sdk indexer by [bro-n-bro](https://github.com/bro-n-bro)
 
-### cybernet
+## cybernet
+
+reward layer for soft3
+
 - [cybernet](https://github.com/cybercongress/cybernet) cybernet cosmwasm contracts
 - [cybertensor](https://github.com/cybercongress/cybertensor) python cli for cybernet
 
-### related repos
 
-- [cyberindex](https://github.com/cybercongress/cyberindex): backend for go-cyber
-- [cybernode](https://github.com/cybercongress/cybernode): setup helper of web3 provider
-- [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
+## cyb
 
-## [cyb](https://github.com/cybercongress/cyb)
+embryo of [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqMZNEtXNTzbgkQvZuBsgM6qvbd57) protocol for browsing with several implementations
 
-Your immortal robot for the [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqMZNEtXNTzbgkQvZuBsgM6qvbd57). 
+- [cyb.ai](https://cyb.ai): web instance of cyb-ts
+- [cyb-ts](https://github.com/cybercongress/cyb-ts): web2 prototype in typescript
+- [cy](https://github.com/cyber-prophet/cy): cli browser and learning tool in nushel by [cyber-prophet](https://github.com/cyber-prophet)
+- [cyb-art](https://www.figma.com/file/7i0Ly3YF587km0F8iDZod4/cyb?type=design&node-id=22328%3A1126&mode=design&t=TKUUKmMlnFBD4JBd-1): art by [el-nivvo](https://github.com/El-NIVVO)
 
-Cyb is a pure web3 and soft3 browser.
-
-[use it at cyb.ai](https://cyb.ai)
-
-## [Follow us](https://cyb.ai/network/bostrom/contract/bostrom1xszmhkfjs3s00z2nvtn7evqxw3dtus6yr8e4pw)
+## [Follow us in cyb](https://cyb.ai/@congress)
 
 Help us build a better future
 
