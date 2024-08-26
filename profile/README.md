@@ -34,8 +34,9 @@ development tools for soft3
 - [cyber-ts](https://github.com/cybercongress/cyber-ts): typescript library for soft3
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
 - [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
+- [localbostrom](https://github.com/cybercongress/localbostrom): launch chain for developer environment
+- [cybernode](https://github.com/bro-n-bro/cybernode): infrastructure setup by [bro-n-bro](https://github.com/bro-n-bro)
 - [spacebox](https://github.com/bro-n-bro/spacebox): cyber-sdk indexer by [bro-n-bro](https://github.com/bro-n-bro)
-- [localbostrom]([https://github.com/](https://github.com/cybercongress/localbostrom): launch chain for developer environment
 
 ## cybernet
 
@@ -60,6 +61,10 @@ embryo of [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqMZNEtXNTzbgkQvZuBsg
 - [telegram group](https://t.me/CyberGlobalHub)
 - [telegram channel](https://t.me/bostrom_news)
 - [discord server](https://discord.gg/cyber-bostrom-spacepussy)
+
+## partnerships
+- [deep foundation](https://github.com/deep-foundation)
+- let's make partnerships!
 
 Help us build a better future
 
