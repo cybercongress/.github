@@ -30,10 +30,12 @@ protocol for unified, provable, collective learning. Focus on [soft3](https://cy
 development tools for soft3
 
 - [go-cyber](https://github.com/cybercongress/go-cyber): golang implementation
-- [soft3.js](https://github.com/cybercongress/soft3.js): javascript library for soft3
+- [soft3.js](https://github.com/cybercongress/soft3.js): javascript library for soft3 (legacy)
+- [cyber-ts](https://github.com/cybercongress/cyber-ts): typescript library for soft3
 - [cw-cyber](https://github.com/cybercongress/cw-cyber): cosmwasm core contracts
 - [cw-cybergift](https://github.com/cybercongress/cw-cybergift): gift implementation in cosmwasm
 - [spacebox](https://github.com/bro-n-bro/spacebox): cyber-sdk indexer by [bro-n-bro](https://github.com/bro-n-bro)
+- [localbostrom]([https://github.com/](https://github.com/cybercongress/localbostrom): launch chain for developer environment
 
 ## cybernet
 
@@ -52,7 +54,12 @@ embryo of [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqMZNEtXNTzbgkQvZuBsg
 - [cy](https://github.com/cyber-prophet/cy): cli browser and learning tool in nushel by [cyber-prophet](https://github.com/cyber-prophet)
 - [cyb-art](https://www.figma.com/file/7i0Ly3YF587km0F8iDZod4/cyb?type=design&node-id=22328%3A1126&mode=design&t=TKUUKmMlnFBD4JBd-1): art by [el-nivvo](https://github.com/El-NIVVO)
 
-## [Follow us in cyb](https://cyb.ai/@congress)
+## follow us
+- [cyb.ai/@congress](https://cyb.ai/@congress)
+- [x@cyber_devs](https://twitter.com/cyber_devs)
+- [telegram group](https://t.me/CyberGlobalHub)
+- [telegram channel](https://t.me/bostrom_news)
+- [discord server](https://discord.gg/cyber-bostrom-spacepussy)
 
 Help us build a better future
 
