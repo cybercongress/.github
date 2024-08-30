@@ -18,6 +18,10 @@ So the chances you can claim your BOOT in [portal](https://cyb.ai/portal) are hi
 
 We are cyberian civilization of [30k+ citizens](https://cyb.ai/oracle/stats) and growing thanks to our open source software:
 
+## graphs
+- [cyber.page](https://cyber.page): cyber metagraph
+- [chat](https://wiki.mutable.ai/cybercongress/cyber): chat with metagraph
+
 ## cyber
 
 protocol for unified, provable, collective learning. Focus on [soft3](https://cyb.ai/oracle/ask/QmTsBLAHC1Lk7n76GX4P3EvbAfNjBmZxwjknWy41SJZBGg) applications.
@@ -65,6 +69,10 @@ embryo of [great web](https://cyb.ai/ipfs/QmUamt7diQP54eRnmzqMZNEtXNTzbgkQvZuBsg
 ## partnerships
 - [deep foundation](https://github.com/deep-foundation)
 - let's make partnerships!
+
+## ai docs
+- [go-cyber](https://wiki.mutable.ai/cybercongress/go-cyber)
+- [cyb-ts](https://wiki.mutable.ai/cybercongress/cyb-ts)
 
 Help us build a better future
 
